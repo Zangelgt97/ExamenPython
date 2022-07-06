@@ -5,7 +5,7 @@ r = requests.post('https://miapi.com/comentarios/', json=payload)
 class write_test:
 
     def leer_archivo(self):
-                archivo = open("Ejercicio1/Clientes.txt")
+                archivo = open("Ejercicio1-3/Clientes.txt")
                 #i = 1  # contador de la linea
                 x=0
                 for linea in archivo:

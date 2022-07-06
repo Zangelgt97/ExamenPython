@@ -1,0 +1,10 @@
+1.-importamos el proyecto examen2 en eclipse con meaven 
+2.-Al abrir el proyecto actualizamos el archivo POM para que se descarguen las dependencias 
+3.-Ejecutamos el programa desde la carpeta del proyecto examen2 con spring boot 
+4.-Podemos Ver las URL desde el paquete Controller que contiene todos los servicios rest de las diferentes tablas
+5.-Accedemos a postman y usamos los metodos get post delete put para agregar datos a las tablas 
+6.-Podemos ejecutar el codigo de python de el segundo link para poder cargar la base de datos con los clientes que se encuentran en el
+archivo clientes.txt
+los links para encontrar los proyectos son: 
+https://github.com/Zangelgt97/ExamenPython
+https://github.com/Zangelgt97/ExamenJava
